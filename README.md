@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+This app is running on ruby 2.0.0 and rails 4.0.0
 
 * System dependencies
 
